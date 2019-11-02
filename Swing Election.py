@@ -1,7 +1,4 @@
-################################################################################
-# 6.0002 Fall 2019
-# Problem Set 1
-# Written By: yunb, mkebede
+
 # Name: Deniz Sert
 # Collaborators: Soomin Chun
 # Time: 5 hrs
